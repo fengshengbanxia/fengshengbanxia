@@ -53,7 +53,7 @@ card_width - 手动设置卡片的宽度 (number)
 :blue_heart:
 
 
-![Static Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Static Badge](https://img.shields.io/badge/summer-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/github-%E5%B0%B1%E6%98%AF%E8%BF%99%E9%87%8C-bule)
 ![](https://komarev.com/ghpvc/?username=fengshengbanxia&color=blueviolet)
@@ -72,9 +72,13 @@ card_width - 手动设置卡片的宽度 (number)
 </div>
 
 
+| GitHub 统计 | 常用语言 |
+| --- | --- |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fengshengbanxia&show_icons=true&theme=radical&bg_color=45,ff0000,0000ff)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fengshengbanxia&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fengshengbanxia&show_icons=true&theme=radical&bg_color=45,ff0000,0000ff)](https://github.com/anuraghazra/github-readme-stats)
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fengshengbanxia&show_icons=true&theme=radical&bg_color=45,ff0000,0000ff)](https://github.com/anuraghazra/github-readme-stats)|
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fengshengbanxia&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+|
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frankiejun&repo=serv00-play&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fengshengbanxia&repo=edgetunnel&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eooce&repo=Sing-box&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
