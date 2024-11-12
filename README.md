@@ -41,6 +41,12 @@ card_width - 手动设置卡片的宽度 (number)
 
 </div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,cpp,c,python,cloudflare,idea,html,gmail,vscode,git,docker,c,vim" />
+  </a>
+</p>
+
 ![](https://komarev.com/ghpvc/?username=fengshengbanxia&color=blueviolet)
 
 <div align="center">
@@ -69,11 +75,7 @@ card_width - 手动设置卡片的宽度 (number)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fengshengbanxia&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,cpp,c,python,cloudflare,idea,html,gmail,vscode,git,docker,c,vim" />
-  </a>
-</p>
+
 
 <!--
 **fengshengbanxia/fengshengbanxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
