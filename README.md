@@ -34,12 +34,12 @@ card_width - 手动设置卡片的宽度 (number)
 
 -->
 
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=PT+Sans&size=30&pause=1000&color=642DF7&background=8BFFEC00&center=true&vCenter=true&repeat=&random=&width=435&lines=Welcome+to+the+summer+space;Start+your+journey!)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=500&lines=Welcome+to+the+summer+space;Start+your+journey!" alt="Typing SVG" />
+  </a>
 </div>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
