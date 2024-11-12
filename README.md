@@ -47,6 +47,14 @@ card_width - 手动设置卡片的宽度 (number)
 
 </div>
 
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=fengshengbanxia&theme=monokai&rank=-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fengshengbanxia&show_icons=true&theme=radical&bg_color=45,ff0000,0000ff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fengshengbanxia&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frankiejun&repo=serv00-play&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
