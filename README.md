@@ -40,6 +40,9 @@ card_width - 手动设置卡片的宽度 (number)
   </a>
 </div>
 
+![暗色](https://raw.githubusercontent.com/fengshengbanxia/fengshengbanxia/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/fengshengbanxia/fengshengbanxia/output/github-contribution-grid-snake.svg)
+
 
 <p align="center">
   <a href="https://skillicons.dev">
