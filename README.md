@@ -46,8 +46,18 @@ card_width - 手动设置卡片的宽度 (number)
     <img src="https://skillicons.dev/icons?i=anaconda,cpp,c,python,cloudflare,idea,html,gmail,vscode,git,docker,c,vim" />
   </a>
 </p>
+:purple_heart:
+:heart:
+:yellow_heart:
+:green_heart:
+:blue_heart:
 
+
+![Static Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/github-%E5%B0%B1%E6%98%AF%E8%BF%99%E9%87%8C-bule)
 ![](https://komarev.com/ghpvc/?username=fengshengbanxia&color=blueviolet)
+![Visitor Count](https://profile-counter.glitch.me/fengshengbanxia/count.svg)
 
 <div align="center">
   
