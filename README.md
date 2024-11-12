@@ -40,9 +40,21 @@ card_width - 手动设置卡片的宽度 (number)
 
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fengshengbanxia&show_icons=true&theme=radical&bg_color=45,ff0000,0000ff)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=fengshengbanxia&theme=cobalt&hide_border=%E5%81%87&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fengshengbanxia&theme=cobalt)](https://git.io/streak-stats)
+</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fengshengbanxia&show_icons=true&theme=radical&bg_color=45,ff0000,0000ff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fengshengbanxia&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frankiejun&repo=serv00-play&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fengshengbanxia&repo=edgetunnel&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eooce&repo=Sing-box&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yutian81&repo=serv00-ct8-ssh&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
